@@ -11,7 +11,7 @@ import re
 
 # Set your OpenAI API key
 
-api_key = "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"
+api_key = "SHA256:LTzixAlvex1SBrZ3S+8zSeURM102877Ymxv9oBeSBdE"
 
 model = "gpt-4o-mini"
 
