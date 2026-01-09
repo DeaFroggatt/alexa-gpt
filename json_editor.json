@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "chat",
+            "invocationName": "dialogue",
             "intents": [
                 {
                     "name": "GptQueryIntent",
